@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grusiecki 
 - 👀 I’m interested in traveling
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Automation tests frameworks.
 - 💞️ I’m looking to collaborate on mobile apps
 - 📫 How to reach me grusiecki.mateusz93@gmail.com
 
